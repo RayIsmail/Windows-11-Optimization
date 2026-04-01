@@ -1,4 +1,4 @@
-Windows 11 Performance Optimization (8GB RAM) 🚀
+Windows 11 Performance Optimization (8GB RAM)
 
 This repository documents a systematic approach to maximizing system performance on Windows 11, specifically tailored for machines with 8GB of RAM. The goal is to reduce background resource consumption and improve responsiveness without hardware upgrades or OS reinstallation.
 

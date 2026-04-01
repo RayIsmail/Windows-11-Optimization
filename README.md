@@ -40,7 +40,7 @@ Implemented a hard limit on memory cache via `about:config` by setting `browser.
 | Metric | Result |
 | :--- | :--- |
 | **Idle CPU Usage** | 3% |
-| **RAM Usage (with 20+ tabs)** | 72% |
+| **RAM Usage (with 6 tabs && mlti extensions)** | 72% |
 | **Hard Faults/sec** | **0** (No memory leaks detected) |
 
 ---
